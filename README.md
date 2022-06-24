@@ -1,6 +1,6 @@
 ### Hi there 👋
 # Alireza Mehri 
-visit My personal site [Alirezamehri.me](https://alirezamehri.me)
+visit My personal site [Alirezamehri.ir](https://alirezamehri.ir)
 
 <!--
 **alireza-mehri/alireza-mehri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
